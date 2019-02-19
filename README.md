@@ -10,4 +10,4 @@
   * checking the stability of WCEInetwork when e=1
   
 #### ssn
-  * Implementation of The stablized Supralinear Network (Rubin, Van Hooser, & Miller, 2015)
+  * Implementation of The Stablized Supralinear Network (Rubin, Van Hooser, & Miller, 2015)
