@@ -1,7 +1,7 @@
 # E_I_networks
 
 ####  WCEInetwork
-  * Wilson-Cowan model
+  * Implemetation of Wilson-Cowan E-I network
   
 #### problem_set_find_fixed_points
   * checking fixed points 
